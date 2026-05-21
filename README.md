@@ -113,14 +113,11 @@ Implemented:
 ---
 ## Visualizations
 
-### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](images/correlationheatmap.png)
 
 ### Accuracy Comparison
-![Accuracy Comparison](images/accuracy_comparison.png)
+![Accuracy Comparison](images/accuracycomparison.png)
 
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+
