@@ -4,6 +4,11 @@
 Customer churn is one of the biggest challenges faced by banks and financial institutions.  
 This project aims to predict whether a customer will leave the bank or continue as a customer using various Machine Learning classification algorithms.
 
+## Business Problem
+
+Customer churn directly impacts a bank’s profitability and customer retention.  
+Predicting customer churn helps banks identify high-risk customers and take preventive actions such as personalized offers, customer engagement strategies, and retention campaigns.
+
 The project includes:
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
@@ -106,9 +111,22 @@ Implemented:
 | Random Forest | 86% |
 | AdaBoost | 86% |
 
-### Best Performing Models
-- Random Forest Classifier
-- AdaBoost Classifier
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Engineering
+- Classification Algorithms
+- Model Evaluation
+- Handling Imbalanced Data
+- Machine Learning Workflow
+
+## Results
+
+- Random Forest and AdaBoost achieved the highest accuracy of 86%.
+- SMOTE improved class balance and model stability.
+- Random Forest performed best overall for churn prediction.
 
 ---
 
