@@ -111,13 +111,5 @@ Implemented:
 - AdaBoost Classifier
 
 ---
-## Visualizations
-
-
-### Correlation Heatmap
-![Heatmap](images/correlationheatmap.png)
-
-### Accuracy Comparison
-![Accuracy Comparison](images/accuracycomparison.png)
 
 
