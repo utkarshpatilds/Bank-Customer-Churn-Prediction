@@ -111,4 +111,16 @@ Implemented:
 - AdaBoost Classifier
 
 ---
+## Visualizations
 
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### Accuracy Comparison
+![Accuracy Comparison](images/accuracy_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
